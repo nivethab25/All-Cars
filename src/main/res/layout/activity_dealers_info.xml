@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorBackground"
+    android:orientation="vertical"
+    tools:context="com.nivetha.cs478.allcars.DealersInfo">
+
+    <TextView
+        android:id="@+id/dealerTitle"
+        style="@android:style/Widget.DeviceDefault.TextView"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_gravity="top"
+        android:layout_margin="10dp"
+        android:background="@color/colorPrimaryDark"
+        android:clickable="false"
+        android:fadingEdge="horizontal|vertical"
+        android:paddingTop="2dp"
+        android:text="@string/dealerTitle"
+        android:textAlignment="center"
+        android:textColor="@color/colorBackground"
+        android:textSize="24sp"
+        android:textStyle="bold" />
+
+    <ListView
+        android:id="@+id/listView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:clickable="false"
+        android:gravity="center"
+        android:padding="10dp"
+        android:verticalSpacing="10dp" />
+</LinearLayout>

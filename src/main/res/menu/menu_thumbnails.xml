@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.nivetha.cs478.allcars.CarThumbnails">
+    <item
+        android:id="@+id/view_image"
+        android:title="@string/viewImage"
+         />
+    <item
+        android:id="@+id/open_website"
+        android:title="@string/openWebsite"
+        />
+    <item
+        android:id="@+id/view_dealers"
+        android:title="@string/viewDealers"
+        />
+</menu>

@@ -1,0 +1,192 @@
+<resources>
+    <string name="app_name">AllCars</string>
+    <string name="title_activity_dealers_info">DealersInfo</string>
+
+    <string name="manufacturer1">Mercedes-Benz</string>
+    <string name="manufacturer2">Audi</string>
+    <string name="manufacturer3">Mazda</string>
+    <string name="manufacturer4">Bmw</string>
+    <string name="manufacturer5">Infiniti</string>
+    <string name="manufacturer6">Volkswagen</string>
+    <string name="manufacturer7">Lexus</string>
+    <string name="manufacturer8">Honda</string>
+    <string name="manufacturer9">Nissan</string>
+    <string name="manufacturer10">Hyundai</string>
+    <string name="manufacturer11">Kia</string>
+    <string name="manufacturer12">Chevrolet</string>
+    <string name="manufacturer13">Toyota</string>
+    <string name="manufacturer14">Dodge</string>
+    <string name="manufacturer15">Tesla</string>
+
+    <string name="url1">"https://www.mbusa.com/mercedes/index"</string>
+    <string name="url2">"https://www.audiusa.com"</string>
+    <string name="url3">"https://www.mazdausa.com"</string>
+    <string name="url4">"https://www.bmwusa.com"</string>
+    <string name="url5">"https://www.infinitiusa.com"</string>
+    <string name="url6">"http://www.vw.com"</string>
+    <string name="url7">"http://www.lexus.com"</string>
+    <string name="url8">"http://shop.honda.com"</string>
+    <string name="url9">"https://www.nissanusa.com"</string>
+    <string name="url10">"https://www.hyundaiusa.com"</string>
+    <string name="url11">"https://www.kia.com/us/en/home"</string>
+    <string name="url12">"http://www.chevrolet.com"</string>
+    <string name="url13">"https://www.toyota.com/usa"</string>
+    <string name="url14">"http://www.dodge.com"</string>
+    <string name="url15">"https://www.tesla.com/"</string>
+
+    <string name="viewImage">View Full Image</string>
+    <string name="openWebsite">Open Website</string>
+    <string name="viewDealers">View Dealers</string>
+    <string name="dealerTitle">Dealers in Greater Chicago Area</string>
+
+    <string-array name="dealersNames1">
+        <item>"McGrath Acura of Downtown Chicago"</item>
+        <item>"Loeber Motors"</item>
+        <item>"Greater Chicago Motors"</item>
+    </string-array>
+    <string-array name="dealersAddresses1">
+        <item>"1301 N.Elston Avenue, Chicago, IL 60642"</item>
+        <item>"4255 Touchy Ave, Lincolnwood, IL 60712"</item>
+        <item>"1850 N Elston Ave, Chicago, IL 60642"</item>
+    </string-array>
+    <string-array name="dealersNames2">
+        <item>"Fletcher Jones Audi"</item>
+        <item>"Greater Chicago Motors"</item>
+        <item>"Audi Orland Park"</item>
+    </string-array>
+    <string-array name="dealersAddresses2">
+        <item>"1523 W North Ave, Chicago, IL 60642"</item>
+        <item>"1850 N Elston Ave, Chicago, IL 60642"</item>
+        <item>"8021 159th St, Tinley Park, IL 60477"</item>
+    </string-array>
+    <string-array name="dealersNames3">
+        <item>"The Autobarn City Mazda"</item>
+        <item>"West End Auto Inc"</item>
+        <item>"Wilkins Mazda"</item>
+    </string-array>
+    <string-array name="dealersAddresses3">
+        <item>"3255 N Cicero Ave, Chicago, IL 60641"</item>
+        <item>"148 N Cicero Ave, Chicago, IL 60644"</item>
+        <item>"750 North York Road, Elmhurst, IL 60126"</item>
+    </string-array>
+    <string-array name="dealersNames4">
+        <item>"Perillo BMW"</item>
+        <item>"Greater Chicago Motors"</item>
+        <item>"Bavarian Motors"</item>
+    </string-array>
+    <string-array name="dealersAddresses4">
+        <item>"1035 N Clark St, Chicago, IL 60610"</item>
+        <item>"1850 N Elston Ave, Chicago, IL 60642"</item>
+        <item>"27 N May St, Chicago, IL 60607"</item>
+    </string-array>
+    <string-array name="dealersNames5">
+        <item>"Berman INFINITI Chicago"</item>
+        <item>"INFINITI Of Clarendon Hills"</item>
+        <item>"INFINITI Hoffman Estates"</item>
+    </string-array>
+    <string-array name="dealersAddresses5">
+        <item>"640 N LaSalle Dr, Chicago, IL 60654"</item>
+        <item>"415 E Ogden Ave, Clarendon Hills, IL 60514"</item>
+        <item>"1075 W Golf Rd, Hoffman Estates, IL 60169"</item>
+    </string-array>
+    <string-array name="dealersNames6">
+        <item>"Fletcher Jones Volkswagen"</item>
+        <item>"The Autobarn City Volkswagen"</item>
+        <item>"Mike Haggerty Volkswagen"</item>
+    </string-array>
+    <string-array name="dealersAddresses6">
+        <item>"1111 N Clark St, Chicago, IL 60610"</item>
+        <item>"5330 W Irving Park Rd, Chicago, IL 60641"</item>
+        <item>"8920 S Cicero Ave, Oak Lawn, IL 60453"</item>
+    </string-array>
+    <string-array name="dealersNames7">
+        <item>"McGrath Lexus of Chicago"</item>
+        <item>"Bredemann Lexus"</item>
+        <item>"Lexus of Orland"</item>
+    </string-array>
+    <string-array name="dealersAddresses7">
+        <item>"1250 W Division St, Chicago, IL 60642"</item>
+        <item>"2000 Waukegan Rd, Glenview, IL 60025"</item>
+        <item>"8300 W 159th St, Orland Park, IL 60462"</item>
+    </string-array>
+    <string-array name="dealersNames8">
+        <item>"Honda City Chicago"</item>
+        <item>"Fletcher Jones Honda"</item>
+        <item>"McGrath City Honda"</item>
+    </string-array>
+    <string-array name="dealersAddresses8">
+        <item>"4950 S Pulaski Rd, Chicago, IL 60632"</item>
+        <item>"1111 N Clark St Suite 2, Chicago, IL 60610"</item>
+        <item>"6720 W Grand Ave, Chicago, IL 60707"</item>
+    </string-array>
+    <string-array name="dealersNames9">
+        <item>"Western Avenue Nissan"</item>
+        <item>"Berman Nissan of Chicago"</item>
+        <item>"Kelly Nissan, Inc."</item>
+    </string-array>
+    <string-array name="dealersAddresses9">
+        <item>"7410 S Western Ave, Chicago, IL 60636"</item>
+        <item>"3456 N Kedzie Ave, Chicago, IL 60618"</item>
+        <item>"4300 95th St, Oak Lawn, IL 60453"</item>
+    </string-array>
+    <string-array name="dealersNames10">
+        <item>"McGrath City Hyundai"</item>
+        <item>"Rogers Hyundai"</item>
+        <item>"Grossinger Hyundai North"</item>
+    </string-array>
+    <string-array name="dealersAddresses10">
+        <item>"6750 W Grand Ave, Chicago, IL 60707"</item>
+        <item>"2700 S Michigan Ave, Chicago, IL 60616"</item>
+        <item>"6747 Lincoln Ave, Lincolnwood, IL 60712"</item>
+    </string-array>
+    <string-array name="dealersNames11">
+        <item>"Berwyn Kia"</item>
+        <item>"Evergreen Kia"</item>
+        <item>"Grossinger Kia"</item>
+    </string-array>
+    <string-array name="dealersAddresses11">
+        <item>"7050 Ogden Ave, Berwyn, IL 60402"</item>
+        <item>"9205 S Western Ave, Chicago, IL 60643"</item>
+        <item>"6750 Lincoln Ave, Lincolnwood, IL 60712"</item>
+    </string-array>
+    <string-array name="dealersNames12">
+        <item>"Rogers Chevrolet"</item>
+        <item>"Kingdom Chevy"</item>
+        <item>"Chicago Motors Inc."</item>
+    </string-array>
+    <string-array name="dealersAddresses12">
+        <item>"2720 S Michigan Ave, Chicago, IL 60616"</item>
+        <item>"6603 S Western Ave, Chicago, IL 60636"</item>
+        <item>"2553 W Chicago Ave, Chicago, IL 60622"</item>
+    </string-array>
+    <string-array name="dealersNames13">
+        <item>"Chicago Northside Toyota"</item>
+        <item>"Grossinger City Toyota"</item>
+        <item>"Midtown Toyota"</item>
+    </string-array>
+    <string-array name="dealersAddresses13">
+        <item>"5625 North Broadway, Chicago, IL 60660"</item>
+        <item>"1561 N Fremont St, Chicago, IL 60642"</item>
+        <item>"2700 N Cicero Ave, Chicago, IL 60639"</item>
+    </string-array>
+    <string-array name="dealersNames14">
+        <item>"Midway Dodge"</item>
+        <item>"Marino Chrysler Jeep Dodge"</item>
+        <item>"South Chicago Dodge Chrysler Jeep"</item>
+    </string-array>
+    <string-array name="dealersAddresses14">
+        <item>"4747 S Pulaski Rd, Chicago, IL 60632"</item>
+        <item>"5133 W Irving Park Rd, Chicago, IL 60641"</item>
+        <item>"7340 S Western Ave, Chicago, IL 60636"</item>
+    </string-array>
+    <string-array name="dealersNames15">
+        <item>"Tesla"</item>
+        <item>"Tesla Chicago"</item>
+        <item>"Chicago Motors Inc."</item>
+    </string-array>
+    <string-array name="dealersAddresses15">
+        <item>"1053 W Grand Ave, Chicago, IL 60642"</item>
+        <item>"6603 S Western Ave, Chicago, IL 60636"</item>
+        <item>"2553 W Chicago Ave, Chicago, IL 60622"</item>
+    </string-array>
+</resources>
